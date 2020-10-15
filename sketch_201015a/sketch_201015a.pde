@@ -4,6 +4,6 @@ void setup () {}//End setup
 
 void draw () {}//End draw
 
-void mousepress() {}//End mousepress
+void mousepressed() {}//End mousepressed
 
 void keypress() {}//End keypress
