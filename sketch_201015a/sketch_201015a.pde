@@ -7,7 +7,7 @@ float drawingDiameter;
 Boolean draw=false;
 
 void setup() {
-  size(500, 600);
+  size(700, 700);
   quitButtonSetup();
   drawingSurfaceX = width*0;
   drawingSurfaceY = height*0;
