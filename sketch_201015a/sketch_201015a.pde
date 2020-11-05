@@ -7,13 +7,18 @@ float drawingDiameter;
 Boolean draw=false;
 
 void setup() {
-  size(700, 700);
+  size(1500, 700);
   quitButtonSetup();
   drawingSurfaceX = width*0;
   drawingSurfaceY = height*0;
   drawingSurfaceWidth = width*3/4;
   drawingSurfaceHeight = height*4/5;
- 
+  
+ circle(56, 46, 55);
+ circle(56, 46, 55);
+ circle(56, 46, 55);
+ circle(56, 46, 55);
+ circle(56, 46, 55);
  
   rect(drawingSurfaceX, drawingSurfaceY, drawingSurfaceWidth, drawingSurfaceHeight);
    
